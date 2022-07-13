@@ -8,3 +8,6 @@ Da Las Gracias PúBlicamente 🤓.
 *Página para hacer readme
 *
 - https://pandao.github.io/editor.md/en.html
+
+
+Probando read-mejorado para el uso de stash 
