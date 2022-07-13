@@ -11,3 +11,4 @@ Da Las Gracias PúBlicamente 🤓.
 
 
 Probando read-mejorado para el uso de stash 
+probando traer commits viejos al head de un branch 
